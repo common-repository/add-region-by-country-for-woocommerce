@@ -1,0 +1,3 @@
+Version 1.0 
+- 	First Release
+-   A new version of add region by country for WooCommerce plug-in.
